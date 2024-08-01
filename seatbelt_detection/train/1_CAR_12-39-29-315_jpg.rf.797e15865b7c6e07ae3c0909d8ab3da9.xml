@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>1_CAR_12-39-29-315_jpg.rf.797e15865b7c6e07ae3c0909d8ab3da9.jpg</filename>
+	<path>1_CAR_12-39-29-315_jpg.rf.797e15865b7c6e07ae3c0909d8ab3da9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>447</width>
+		<height>620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>windshield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>4</xmin>
+			<xmax>432</xmax>
+			<ymin>152</ymin>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>
